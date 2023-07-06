@@ -1,0 +1,17 @@
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\bin\Debug\net6.0-windows\ogrencisınavdurumu.exe
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\bin\Debug\net6.0-windows\ogrencisınavdurumu.deps.json
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\bin\Debug\net6.0-windows\ogrencisınavdurumu.runtimeconfig.json
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\bin\Debug\net6.0-windows\ogrencisınavdurumu.dll
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\bin\Debug\net6.0-windows\ogrencisınavdurumu.pdb
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.csproj.AssemblyReference.cache
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.Form1.resources
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.csproj.GenerateResource.cache
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.AssemblyInfoInputs.cache
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.AssemblyInfo.cs
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.csproj.CoreCompileInputs.cache
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.dll
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\refint\ogrencisınavdurumu.dll
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.pdb
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ogrencisınavdurumu.genruntimeconfig.cache
+C:\Users\KEMAL\source\repos\ogrencisınavdurumu\ogrencisınavdurumu\obj\Debug\net6.0-windows\ref\ogrencisınavdurumu.dll
